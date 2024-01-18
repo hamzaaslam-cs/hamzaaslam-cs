@@ -4,7 +4,7 @@ Hi! My name is Hamza Aslam
 Software Engineer
 -----------------
 
-I've been working in Web Development for more than 4 years, And have delivered variety of projects eg: Tracking system , IOT solutions, On Demand service and CRM systems using technologies like HTML, CSS, javascript, Typescript, PHP NodeJs, Laravel, ReactJs, Redis, Kafka, MySql, MongoDB, Mqtt and Linux.
+I've been working in Web Development for more than 4 years, And have delivered variety of projects eg: Tracking system , IOT solutions, On Demand service and CRM systems using technologies like PHP NodeJs, Laravel, ReactJs, Redis, Kafka, MySql, MongoDB, Mqtt, HTML, CSS, javascript, Typescript and Linux.
 
 * 🌍  I'm based in Rawalpindi, Pakistan
 * ✉️  You can contact me at [hamzaaslam.cs@gmail.com](mailto:hamzaaslam.cs@gmail.com)
