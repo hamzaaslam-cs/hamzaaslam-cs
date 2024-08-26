@@ -7,7 +7,7 @@ Software Engineer
 I've been working in Web Development for 5 years, And have delivered variety of projects eg: Tracking system , IOT solutions, On Demand service, POS, Marketing Solutions and CRM systems using technologies like PHP NodeJs, Laravel, ReactJs, Redis, VueJS, Livewire, Kafka, MySql, MongoDB, Mqtt, HTML, CSS, javascript, Typescript and Linux.
 
 * 🌍  I'm based in Rawalpindi, Pakistan
-* ✉️  You can contact me at [hamzaaslam.cs@gmail.com](mailto:hamzaaslam.cs@gmail.com)
+* ✉️  You can contact me at [hamzaaslam.cs@gmail.com](mailto:hamzaaslam.cs@gmail.com) or on * ✉️  You can contact me at [hamzaaslam.cs@outlook.com](mailto:hamzaaslam.cs@outlook.com)
 * 🚀  I'm currently working on [NodeJs boilerplate](http://github.com/hamzaaslam-cs/nodejs-boilerplate)
 * 🧠  I'm learning NestJs
 * 🤝  I'm open to collaborating on Open source projects build in either javascript or php.
